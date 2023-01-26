@@ -4,14 +4,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonlenz01@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlenzjava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anderson Lenz GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonlenzjava&show_icons=true&theme=dark)
-
-## Tecnologias que eu utilizo no meu dia a dia
-
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" /><img height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /><img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img    height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img  height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img   height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-    
-                       
 ## Apresentação
 
 Gosto de desenvolver soluções através da programação para diversos tipos de organizações e negócios, com isto tornar o mundo mais organizado e melhor para se viver.
@@ -32,3 +24,14 @@ Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista 
 ## Apresentação dos sistemas que já desenvolvi:
 - video video video video video video
 -  video video video video video video
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlenzjava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anderson Lenz GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonlenzjava&show_icons=true&theme=dark)
+
+## Tecnologias que eu utilizo no meu dia a dia
+
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" /><img height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /><img  height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img    height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height="100" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img  height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img   height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+    
+                       
+
