@@ -20,14 +20,20 @@
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 <br/>
+
+## Apresentação
+
 Gosto de desenvolver soluções através da programação para diversos tipos de organizações e negócios, com isto tornar o mundo mais organizado e melhor para se viver. 
 
 Estou em migração de carreira, eu era um professor, pesquisador e projetista de máquinas. Trago na bagagem desta jornada as seguintes skills para brilhar no mundo da programação:
 
 - Análise de requisitos em sistemas complexos.
-- Revisão sistemática de literatura.
-- Gerenciamento de projetos. 
+- Revisão sistemática de literatura para pesquisa científica.
+- Gerênciamento de projetos. 
+- Lógica ne negócios. 
+- Programação de microcontroladores e automação.
+- Capacidade de sintese. 
 
-## Apresentação de projetos que já realizei:
+## Apresentação dos sistemas que já desenvolvi:
 - video video video video video video
 -  video video video video video video
