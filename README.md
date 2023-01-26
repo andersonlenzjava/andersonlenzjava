@@ -10,7 +10,7 @@ Gosto de desenvolver soluções através da programação para diversos tipos de
 
 Estou praticando a construção de APIs Rest com Spring Framework feitos com a linguagem Java. Estou experimentando também fazer o Front-End com HTML, CSS e JavaScript para consumir os EndPoints das APIs desenvolvidas.
 
-Minhas fontes de estudo são a Alura, o curso de Análise e Desenvolvimento de sistemas na PUC-PR, e o youtube e o google, Stackoverflow, Documentações, etc.
+Minhas fontes de estudo são a Alura, o curso de Análise e Desenvolvimento de sistemas na PUC-PR, youtube, google, Stackoverflow, Documentações, etc.
 
 Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista de máquinas. Trago na bagagem desta jornada as seguintes skills para agregar no mundo da programação:
 
