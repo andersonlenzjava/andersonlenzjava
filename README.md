@@ -33,7 +33,7 @@ Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista 
 - Gerênciamento de projetos. 
 - Lógica ne negócios. 
 - Programação de microcontroladores e automação.
-- Capacidade de sintese. 
+- Capacidade de síntese. 
 
 ## Apresentação dos sistemas que já desenvolvi:
 - video video video video video video
