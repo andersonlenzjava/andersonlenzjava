@@ -23,7 +23,7 @@ Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista 
 - Criatividade.
 - Compromisso. 
 
-## Apresentação dos sistemas que já desenvolvi:
+## Apresentação dos projetos que já desenvolvi:
 - video video video video video video
 -  video video video video video video
 
