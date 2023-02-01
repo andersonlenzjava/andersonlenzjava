@@ -6,7 +6,7 @@
 
 ## Apresentação
 
-Gosto de desenvolver soluções através da programação para diversos tipos de organizações e negócios, com isto tornar o mundo mais organizado e melhor para se viver.
+Acho interessante desenvolver soluções através da programação para diversos tipos de organizações e negócios, com isto tornar o mundo mais organizado e melhor para se viver.
 
 Estou praticando a construção de APIs Rest com Spring Framework feitos com a linguagem Java. Estou experimentando também fazer o Front-End com HTML, CSS e JavaScript para consumir os EndPoints das APIs desenvolvidas.
 
