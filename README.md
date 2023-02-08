@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Anderson Miguel Lenz ✋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-miguel-lenz-72134770/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYurrYeqiZmM4UXJdZQjOKw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andersonlenz01@gmail.com)
 
 ## Apresentação
@@ -24,8 +24,8 @@ Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista 
 - Compromisso. 
 
 ## Apresentação dos projetos que já desenvolvi:
-- video video video video video video
--  video video video video video video
+- Playlist projeto gerenciamento de pedidos de uma gráfica: 
+-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLlDU82II1kfAjozfxieWq1Tc7HJfLG4kn)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlenzjava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
