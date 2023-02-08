@@ -25,7 +25,7 @@ Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista 
 
 ## Apresentação dos projetos que já desenvolvi:
 - Playlist projeto gerenciamento de pedidos de uma gráfica: 
--[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLlDU82II1kfAjozfxieWq1Tc7HJfLG4kn)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLlDU82II1kfAjozfxieWq1Tc7HJfLG4kn)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonlenzjava&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
