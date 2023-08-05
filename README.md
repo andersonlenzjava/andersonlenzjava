@@ -8,6 +8,8 @@
 
 Acho interessante desenvolver soluções através da programação para diversos tipos de organizações e negócios, com isto tornar o mundo mais organizado e melhor para se viver.
 
+Sou muito focado em desenvolver habilidades técnicas sólidas. 
+
 Estou praticando a construção de APIs Rest com Spring Framework feitos com a linguagem Java. Estou experimentando também fazer o Front-End com HTML, CSS e JavaScript para consumir os EndPoints das APIs desenvolvidas.
 
 Minhas fontes de estudo são a Alura, o curso de Análise e Desenvolvimento de sistemas na PUC-PR, youtube, google, Stackoverflow, Documentações, etc.
@@ -16,7 +18,6 @@ Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista 
 
 - Análise de requisitos em sistemas complexos.
 - Revisão sistemática de literatura para pesquisa científica.
-- Gerênciamento de projetos. 
 - Lógica ne negócios. 
 - Programação de microcontroladores e automação.
 - Capacidade de síntese.
