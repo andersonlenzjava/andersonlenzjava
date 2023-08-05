@@ -16,13 +16,15 @@ Minhas fontes de estudo são a Alura, o curso de Análise e Desenvolvimento de s
 
 Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista de máquinas. Trago na bagagem desta jornada as seguintes skills para agregar no mundo da programação:
 
-- Análise de requisitos em sistemas complexos.
+- Visão sistêmica.
 - Revisão sistemática de literatura para pesquisa científica.
 - Lógica ne negócios. 
 - Programação de microcontroladores e automação.
 - Capacidade de síntese.
 - Criatividade.
 - Compromisso. 
+
+Migrei para a área de TI pois vejo um alinhamento com meu propósito de vida, além das jornadas de vários profissionais de sucesso.
 
 ## Apresentação dos projetos que já desenvolvi:
 - Playlist projeto gerenciamento de pedidos de uma gráfica: 
