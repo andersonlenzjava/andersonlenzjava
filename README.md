@@ -24,7 +24,7 @@ Antes de de ser um desenvolvedor, eu era um professor, pesquisador e projetista 
 - Criatividade.
 - Compromisso. 
 
-Migrei para a área de TI pois vejo um alinhamento com meu propósito de vida, além das jornadas de vários profissionais de sucesso.
+Migrei para a área de TI pois vejo um alinhamento com meu propósito de vida, além do exemplo de jornadas de vários profissionais de sucesso.
 
 ## Apresentação dos projetos que já desenvolvi:
 - Playlist projeto gerenciamento de pedidos de uma gráfica: 
